@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://febutepu.github.io/sitemap/sitemap_index.febutepu
+Sitemap: https://febutepu.github.io/NXn/sitemap_index.febutepu
+Sitemap: https://febutepu.github.io/JLa/sitemap_index.febutepu
+Sitemap: https://febutepu.github.io/SKi/sitemap_index.febutepu
+Sitemap: https://febutepu.github.io/bkF/sitemap_index.febutepu
+Sitemap: https://febutepu.github.io/Ieu/sitemap_index.febutepu
+Sitemap: https://febutepu.github.io/PcR/sitemap_index.febutepu
+Sitemap: https://febutepu.github.io/dCt/sitemap_index.febutepu
+Sitemap: https://febutepu.github.io/IYv/sitemap_index.febutepu
+Sitemap: https://febutepu.github.io/VfT/sitemap_index.febutepu
+Sitemap: https://febutepu.github.io/wAX/sitemap_index.febutepu
+Sitemap: https://febutepu.github.io/Ivs/sitemap_index.febutepu
+Sitemap: https://febutepu.github.io/Iqf/sitemap_index.febutepu
+Sitemap: https://febutepu.github.io/qAn/sitemap_index.febutepu
+Sitemap: https://febutepu.github.io/yCJ/sitemap_index.febutepu
+Sitemap: https://febutepu.github.io/sHV/sitemap_index.febutepu
+Sitemap: https://febutepu.github.io/Xlb/sitemap_index.febutepu
+Sitemap: https://febutepu.github.io/uTh/sitemap_index.febutepu
+Sitemap: https://febutepu.github.io/weW/sitemap_index.febutepu
+Sitemap: https://febutepu.github.io/AlO/sitemap_index.febutepu
+Sitemap: https://febutepu.github.io/Lqw/sitemap_index.febutepu
